@@ -5,11 +5,4 @@ pandas_ta
 numpy
 requests
 beautifulsoup4
-google-generativeaistreamlit
-yfinance
-pandas
-pandas_ta
-numpy
-requests
-beautifulsoup4
 google-generativeai
